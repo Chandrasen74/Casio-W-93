@@ -1,26 +1,43 @@
-# Casio W 93
+# Casio-W-93
+
+**Live demo:** https://chandrasen74.github.io/Casio-W-93/  
+**Repository:** https://github.com/Chandrasen74/Casio-W-93
+
+![Screenshot of Casio-W-93](screenshot.png)
 
 ## Overview
-**Casio-W-93** is a JavaScript, HTML, CSS project with a browser-viewable demo (GitHub Pages).
+`Casio-W-93` is a HTML/CSS/JavaScript project.
+- **Primary language:** HTML
+- **Languages detected:** HTML, JavaScript, CSS
+- **Stack/tech:** HTML, CSS, JavaScript
 
-- Primary language: **HTML**
-- Detected stack: JavaScript, HTML, CSS
+## Language & stack details
+- Languages: HTML, JavaScript, CSS
+- Frameworks/tools/libraries: HTML, CSS, JavaScript
 
-**Live/demo:** https://chandrasen74.github.io/Casio-W-93/
+## How to install & run
+### Prerequisites
+- A modern web browser
+- (Optional) [Python 3](https://www.python.org/) or any static file server for local serving
 
-## Repository contents
-- `README.md`
-- `index (2).html`
-- `script (2).js`
-- `style (2).css`
-
-## Getting started
+### Run locally
 ```bash
 git clone https://github.com/Chandrasen74/Casio-W-93.git
 cd Casio-W-93
-# open index.html in a browser, or serve locally:
+```
+- **Option 1:** open `index.html` directly in your browser
+- **Option 2:** serve locally (recommended for some JS features):
+```bash
 python -m http.server 8000
+# then open http://localhost:8000
 ```
 
+## Repository structure (top-level/sample)
+- `README.md`
+- `index (2).html`
+- `screenshot.png`
+- `script (2).js`
+- `style (2).css`
+
 ## Status
-README generated/updated as part of a profile-wide documentation pass based on repository contents.
+Documented with screenshot, language/stack details, and setup instructions as part of a profile-wide README update.
