@@ -10,6 +10,8 @@
 - **Primary language:** HTML
 - **Languages detected:** HTML, JavaScript, CSS
 - **Stack/tech:** HTML, CSS, JavaScript
+- **Entry point:** `index.html`
+- **Key files:** `index.html`
 
 ## Language & stack details
 - Languages: HTML, JavaScript, CSS
@@ -33,8 +35,10 @@ python -m http.server 8000
 ```
 
 ## Repository structure (top-level/sample)
+- `.nojekyll`
 - `README.md`
 - `index (2).html`
+- `index.html`
 - `screenshot.png`
 - `script (2).js`
 - `style (2).css`
