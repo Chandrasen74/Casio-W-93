@@ -45,3 +45,10 @@ python -m http.server 8000
 
 ## Status
 Documented with screenshot, language/stack details, and setup instructions as part of a profile-wide README update.
+
+## License
+
+Copyright (c) 2026 Chandrasen. All rights reserved.
+
+This repository is proprietary. No permission is granted to use, copy, modify, or distribute this code without prior written permission.
+See [LICENSE](LICENSE).
