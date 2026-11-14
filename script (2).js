@@ -1,3 +1,9 @@
+/*
+ * Copyright (c) 2026 Chandrasen. All rights reserved.
+ * This source code is proprietary and confidential.
+ * Unauthorized copying, modification, distribution, or use is prohibited.
+ */
+
 const lightBtn = document.getElementById("btn1");
 const modeBtn = document.getElementById("btn2");
 const alarmOr24HBtn = document.getElementById("btn3");
